@@ -198,7 +198,7 @@ msgvalidatebot: "Voici la liste des bots à vérifier. Il serait préférable de
                  La première étape de cette procédure est de tester l'intégralité de ses commandes. Veuillez vérifier que le bot est connecté en permanence ou presque, qu'il ne répond ni aux autres bots ni à lui-même, qu'il n'est pas la copie d'un autre... Le tout sur le serveur, dans l'un des deux channels de test de la section Modération.</br>
                  Une fois la vérification faite, vous pouvez l'accepter ou le refuser. Pour ce faire, allez simplement sur la fiche du bot concerné et appuyez sur le bon bouton."
 verifbot: "Vérification des bots"
-verifcheckokall: "Tous les bots ont été vérifié pour le moment"
+verifcheckokall: "Tous les bots ont été vérifiés pour le moment !"
 welcomedbfr: "Bienvenue sur Wonderbotlist !"
 Search: "Rechercher"
 Searchbot: "Rechercher un bot"
