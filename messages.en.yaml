@@ -140,7 +140,7 @@ auth: "Authentication"
 ratelimits: "Rate Limits"
 welcomeapi: "<p>Welcome to the documentation of Wonderbotlist.com</p><p>The Wonderbotlist.com API allows you to easily programmatically access the data of bots and others.</p>"
 supportapi: "<p>If you need help accessing the Wonderbotlist.com API, feel free to discuss it in our <a href='https://discord.gg/3GfgKdh'>Discord Server</a></p><p>If you receive a response <code>503</code> from our servers, it means that we have reached an unexpected peak in API access traffic and that we would generally be operational within the next 5 minutes. If the failure persists or if you receive another form of error <code>5XX</code>, please inform us via <a href='https://discord.gg/3GfgKdh'>Discord Server</a>.</p>"
-tosapi: "<For more information on the terms of use and privacy of APIs, please refer to our policy document at <a href='https://wonderbotlist.com/tos'>https://wonderbotlist.com/tos</a></p>"
+tosapi: "<p>For more information on the terms of use and privacy of APIs, please refer to our policy document at <a href='https://wonderbotlist.com/tos'>https://wonderbotlist.com/tos</a></p>"
 authapi: "<p>An API key must be required for each request to the Wonderbotlist.com API, in the form of a header <code>X_TOKEN_DBLFR</code> or <code>api_key</code></p>
          <blockquote><p>If you do not have an API Key, you can get one by posting your bot on the site <a href='https://wonderbotlist.com'>Wonderbotlist.com</a>.</p></blockquote>
          <h2>API key error message</h2>
