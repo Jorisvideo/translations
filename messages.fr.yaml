@@ -135,6 +135,7 @@ tostranslated: "<h2>Informations légales</h2>
                  <p>En continuant à accéder ou à utiliser nos services après que ces révisions entraient en vigueur, vous acceptez d’être lié par les conditions révisées. Si vous n’acceptez pas les nouvelles conditions, veuillez cesser d’utiliser nos services.</p>
                  "
 apitranslate: "API"
+"modify": "(Modifiée)"
 intro: "Introduction"
 support: "Support"
 auth: "Authentification"
